@@ -1,4 +1,4 @@
-# PyPower Project - Emotion Detection using AI
+# Project - Emotion Detection using AI
 
 ## Emotion Detection
 
